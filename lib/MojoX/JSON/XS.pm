@@ -1,4 +1,5 @@
 package MojoX::JSON::XS;
+# ABSTRACT: JSON::XS backend replacement for Mojo::JSON
 
 use Mojo::Base 'Mojolicious::Plugin';
 use strict;
