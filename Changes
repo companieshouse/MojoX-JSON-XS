@@ -1,6 +1,7 @@
 Revision history for Perl module MojoX::OAuth2
 
 {{$NEXT}}
+  - harmonise to CHGOVUK standard
 
 0.01 2014-01-14
  - first release as CPAN module

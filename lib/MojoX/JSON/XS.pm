@@ -7,7 +7,7 @@ use strict;
 use Mojo::Util qw(monkey_patch);
 use JSON::XS;
 
-our $VERSION = "0.01";
+our $VERSION = '0.30';
 
 sub register
 {
