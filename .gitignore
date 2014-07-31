@@ -1,4 +1,4 @@
-{{ $dist->name }}-*
+MojoX-JSON-XS-*
 blib/
 .build/
 _build/
